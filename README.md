@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Akram6Trimech9?tab=repositories)
 
-- 📫 How to reach me &nbsp; [<img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg" width="25">](https://www.linkedin.com/in/mouheb-hamza/)
+- 📫 How to reach me &nbsp; [<img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg" width="25">](https://www.linkedin.com/in/akram-trimech-a601aa198//)
 
 - ⚡ Fun fact **I love programming and learning about new things**
 
